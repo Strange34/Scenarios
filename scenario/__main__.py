@@ -117,12 +117,12 @@ HELP_MSG = "Click the button below to get help manu in your pm."
 START_MSG = "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code>"
     
 PM_START_TEXT = """
-────「 [Scenario](https://telegra.ph/file/7b8c52bd4c7b8b35ece20.jpg) 」────
+────「 [Saitama](https://telegra.ph/file/ac9520421f43059024aab.jpg) 」────
 *Hola! {},*
 *I am {} Anime themed advance group management bot with a lot of Sexy Features.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 • *Uptime:* `{}`
-• `{}` *users, across* `{}` *chats.*
+
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ➛ Try The Help Buttons Below To Know My Abilities ××
 """
@@ -136,7 +136,7 @@ buttons = [
     [
                         InlineKeyboardButton(
                             text=f"⚓ ❄️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❄️ ⚓",
-                            url="https://t.me/ScenarioXbot?startgroup=true")
+                            url="https://t.me/Saitama_Xobot?startgroup=true")
                     ],
                    [
                        InlineKeyboardButton(text="☘️ ᴀʙᴏᴜᴛ ☘️", callback_data="scenario_"),
