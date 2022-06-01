@@ -73,7 +73,7 @@ async def awake(event):
   scenario = "**♡ I,m Saitama** \n\n"
   scenario += "**♡ I'm Working With Awesome Speed**\n\n"
   scenario += "**♡ Saitama: LATEST Version**\n\n"
-  scenario += "**♡ My Creator:** [SR2LINKS](t.me/TeamSR2LINKS)\n\n"
+  scenario += "**♡ My Creator:** [SR2LINKS](t.me/SR2LINKS)\n\n"
   scenario += "**♡ Python-Telegram-Bot: v13.7**\n\n"
   scenario_BUTTON = [
       [
