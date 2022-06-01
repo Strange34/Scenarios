@@ -70,10 +70,10 @@ from telethon import Button, events
 @telethn.on(events.NewMessage(pattern="/alive"))
 async def awake(event):
   scenario = event.sender.first_name
-  scenario = "**♡ I,m scenario** \n\n"
+  scenario = "**♡ I,m Saitama** \n\n"
   scenario += "**♡ I'm Working With Awesome Speed**\n\n"
-  scenario += "**♡ Scenario: LATEST Version**\n\n"
-  scenario += "**♡ My Creator:** [TeamScenario](t.me/TeamScenario)\n\n"
+  scenario += "**♡ Saitama: LATEST Version**\n\n"
+  scenario += "**♡ My Creator:** [SR2LINKS](t.me/TeamSR2LINKS)\n\n"
   scenario += "**♡ Python-Telegram-Bot: v13.7**\n\n"
   scenario_BUTTON = [
       [
@@ -119,7 +119,7 @@ START_MSG = "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code>"
 PM_START_TEXT = """
 ────「 [Saitama](https://telegra.ph/file/ac9520421f43059024aab.jpg) 」────
 *Hola! {},*
-*I am {} Anime themed advance group management bot with a lot of Sexy Features.*
+*I am {} Anime themed advance group management bot with a lot of Awesome Features.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 • *Uptime:* `{}`
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
